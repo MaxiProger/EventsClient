@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:defaultValue="1"
+        android:entries="@array/entries"
+        android:entryValues="@array/entry_values"
+        android:key="defaultOnLoad"
+        android:summary="%s"
+        android:title="При запуске показывать" />
+</PreferenceScreen>

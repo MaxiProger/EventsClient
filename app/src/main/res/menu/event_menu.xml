@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/open_in_browser_item"
+        android:title="Открыть в браузере" />
+    <item
+        android:id="@+id/open_in_map_item"
+        android:title="Показать на карте" />
+    <item
+        android:id="@+id/add_to_calendar"
+        android:title="Добавить в календарь" />
+    <item
+        android:id="@+id/share_item"
+        android:title="Поделиться" />
+</menu>

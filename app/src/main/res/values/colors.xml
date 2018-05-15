@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#367ac4</color>
+    <color name="colorPrimaryDark">#306db3</color>
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#367ac4</color>
+    <color name="white">#FFF</color>
+    <color name="clickedItem">#f0f0f0</color>
+
+
+</resources>

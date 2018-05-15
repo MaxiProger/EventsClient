@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Events Client</string>
+    <string name="free_only">Только бесплатные</string>
+    <string name="update">Обновить</string>
+    <string name="title_activity_event">EventActivity</string>
+
+    <string-array name="entries">
+        <item>Все события</item>
+        <item>Только бесплатные</item>
+    </string-array>
+
+    <string-array name="entry_values">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
+
